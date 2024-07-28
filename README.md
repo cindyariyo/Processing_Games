@@ -1,2 +1,2 @@
 # Processing_Games
-A small collection of games made with the processing ide
+A small collection of games made with the processing IDE
